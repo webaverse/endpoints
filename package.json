@@ -1,0 +1,20 @@
+{
+  "name": "@webaverse/endpoints",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webaverse/endpoints.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webaverse/endpoints/issues"
+  },
+  "homepage": "https://github.com/webaverse/endpoints#readme"
+}
